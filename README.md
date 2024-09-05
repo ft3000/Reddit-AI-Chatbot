@@ -1,4 +1,4 @@
-# Reddit Data Extraction and Chatbot Project
+# Reddit Data Extraction and Chatbot Project 🤖
 
 This project focuses on extracting data from Reddit and performing exploratory data analysis (EDA) using the extracted data. Additionally, the project includes a chatbot component that utilizes Natural Language Processing (NLP) techniques. The project is divided into two main parts: data extraction and chatbot interaction.
 
